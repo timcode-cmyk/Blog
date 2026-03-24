@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl      = "https://timcode-cmyk.github.io/"
+baseurl      = "https://natures.dpdns.org/"
 languageCode = "zh-cn"
 title        = "Tim's Blog"
 
