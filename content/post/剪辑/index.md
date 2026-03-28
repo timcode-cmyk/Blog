@@ -1,6 +1,6 @@
 ---
 title: 影像叙事
-description: Welcome to Hugo Theme Stack
+description: 剪辑不仅是拼凑画面，更是情绪与节奏的指挥。本文深度解析从粗剪到精剪的蜕变过程，揭秘影像叙事的核心逻辑，带你掌握让画面“说话”的八大剪辑秘诀、镜头序列构建及轴线规律，全面提升你的叙事思维。
 slug: 剪辑
 date: 2022-03-06 00:00:00+0000
 image: cover.jpg
@@ -8,6 +8,11 @@ categories:
     - 剪辑
 tags:
     - 影像叙事
+    - 电影剪辑
+    - 镜头语言
+    - 蒙太奇
+    - 后期制作
+    - 叙事逻辑
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
@@ -206,5 +211,3 @@ weight: 1       # You can add weight to some posts to override the default sorti
    + 插入事物局部镜头，即特写越轴
    + 插入运动中人物的主观镜头
    + 交待越轴的方法，主体与镜头的交待
-
-
